@@ -1,0 +1,19 @@
+{
+  "wheel_id": 374,
+  "structure": "umbrella",
+  "slug": "adelaidefinancebroker-com-101",
+  "project": "finance-broker-adelaide-comparison-4a1763dc1338e1c4ac10a7c7560e",
+  "parent_t1_ref": "adelaidefinancebroker-com-150",
+  "node_role": "feeder",
+  "money_target": "adelaidefinancebroker.com.au",
+  "primary_kw": "finance broker adelaide comparison",
+  "intended_url": "https://sitesau.github.io/adelaidefinancebroker-com-101/",
+  "writeback_nonce": "e8c51785da6d17ef",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/finance-broker-adelaide-85b0ccd449d624d879802df36013852b0581/",
+      "anchor": "finance broker adelaide",
+      "rel": "follow"
+    }
+  ]
+}
